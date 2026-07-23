@@ -39,12 +39,12 @@ relationship between discount rates and losses.
 - SQL (SQLite, SQLAlchemy)
 
 ## Analysis Scope
-1. Data overview & cleaning
-2. Regional sales performance
-3. Category-level sales breakdown
+1. Data overview
+2. Regional sales analysis
+3. Category-level sales analysis
 4. Region × Category cross-analysis
 5. Loss-making transaction analysis
-6. Discount rate vs. profit margin analysis
+6. Discount rate vs. profit losses analysis
 
 ## Key Findings
 - West region consistently outperformed all other regions; 
