@@ -1,7 +1,7 @@
 # Retail Sales Analysis
 
 ## 專案說明
-使用 Python 與 SQL 與 Power BI 分析 Superstore 零售銷售資料，
+使用 Python , SQL 與 Power BI 分析 Superstore 零售銷售資料，
 探討各地區、品項的銷售額、利潤及折扣率之差異，並找出虧損來源與折扣風險。
 
 ## 使用技術
@@ -49,7 +49,7 @@ Kaggle - Sample Superstore Dataset
 # Retail Sales Analysis
 
 ## Overview
-Analyzed Superstore retail sales data using Python and SQL, Power BI to identify 
+Analyzed Superstore retail sales data using Python , SQL and Power BI to identify 
 regional performance gaps, category-level profitability issues, and the 
 relationship between discount rates and losses.
 
